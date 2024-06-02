@@ -1,4 +1,3 @@
-Homework2 
 Wyatt LeMaster
 to run type ./script
 to clean up type ./cleanup
